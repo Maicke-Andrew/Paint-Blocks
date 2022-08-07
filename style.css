@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    bottom: 0;
+}
+
+#color-pallete {
+    border-collapse: separate;
+    border-spacing: 10px;
+}
+
+#pixel-board {
+    border-collapse: collapse;
+}
+
+.noSpace {
+    border-collapse: collapse;
+}
+
+.pixel {
+    height: 41px;
+    width: 41px;
+    border: 1px solid black;
+}
+
+.newPixel {
+    height: 41px;
+    width: 41px;
+    border: 1px solid black;
+}
+
+.color {
+    height: 35px;
+    width: 35px;
+    border: 1px solid black;
+}
+
+.black {
+    background-color: black;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
+}
+
+.purple {
+    background-color: purple;
+}
